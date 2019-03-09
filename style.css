@@ -1,0 +1,19 @@
+.body {
+    background-color: #777575;  
+}
+   
+.page-header {
+    background-color: white;
+    border-bottom: 1px solid #666666;
+}
+
+footer {
+    float: right;
+    color: white;
+    width: 100%;
+    border-top: 8px solid #4aaaa5;
+    background-color: #666666;
+    font-family: "Times New Roman";
+    text-align: center;
+    padding: 10px 40px;
+}
